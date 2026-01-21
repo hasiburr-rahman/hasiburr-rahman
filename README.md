@@ -46,7 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="41" alt="mysql logo"  />
 </div>
 
-###
+<h2 align="left">Contact with me via</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/hasiburrahmann/" target="_blank">
