@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up Guyss?</h1>
+<h1 align="left">Heyy Guyss👋 What's up?</h1>
 
 ###
 
-<h4 align="left">Heyy, I'm Hasibur Rahman👋<br>Computer Science student from Bangladesh.<br>Curious about building real-world software</h4>
+<h4 align="left">Here, I'm Hasibur Rahman👋<br>Computer Science student from Bangladesh.<br>Curious about building real-world software</h4>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<h4 align="left">✨ Creating bugs since 2023<br>📚 I’m currently learning Java, OOP, and core CS concepts<br>🎯 Goals: become a strong backend / full-stack developer<br>🎲 Fun fact: I enjoy debugging more than writing code (sometimes)<br>📧 How to reach me : hasibur.works@gmail.com</h4>
+<h4 align="left">✨ Creating bugs since 2023<br>📚 Currently studying Data Structures & Algorithms (DSA), advanced problem-solving techniques, and core Computer Science fundamentals.<br>🎯 Goals: become a strong backend / full-stack developer<br>🎲 Fun fact: I enjoy debugging more than writing code (sometimes)<br>📧 How to reach me : hasibur.works@gmail.com</h4>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with : </h2>
 
 ###
 
@@ -46,7 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="41" alt="mysql logo"  />
 </div>
 
-<h2 align="left">Contact with me via</h2>
+<h2 align="left">Contact with me via :</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/hasiburrahmann/" target="_blank">
